@@ -1,0 +1,17 @@
+{
+    "name": "PUNGARABATO_GRO",
+    "short_name": "PUNGARABATO_GRO",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./IM-VI/ICONO.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
